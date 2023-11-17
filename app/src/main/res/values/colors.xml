@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--Basic color-->
+    <color name = "light_pink">#F11587</color>
+    <color name = "red">#FF0000</color>
+    <color name = "blue">#0037FF</color>
+    <color name = "teal">#008080</color>
+    <color name = "golden">#CFA833</color>
+
+    <!--Basic Needs-->
+    <color name = "page_background">#ececec</color>
+    <color name = "hint_color">#5C6BC0</color>
+
+
+
+    <!--Login Page-->
+
+</resources>

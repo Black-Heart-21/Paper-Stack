@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Paper Stack</string>
+    <string name="login">Login</string>
+
+    <!--Splash-->
+    <string name="niladittya21">niladittya21</string>
+    <string name="logo">logo</string>
+
+
+
+
+    <!--Login Page-->
+    <string name="mail_id_ask">Enter your mail ID</string>
+    <string name="password_ask">Enter your password</string>
+    <string name="ask_forgot_pass">Forgot your Password?</string>
+    <string name="ask_not_have_acc">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+
+
+    <!--Signup Page-->
+</resources>
