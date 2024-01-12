@@ -1,3 +1,7 @@
+# Notice
+The project is temporary stopped due to some problem on my android device but it will started soon(In some monthes).
+
+
 # Paper-Stack
 Paper  Stack is a android sofware that helps you to search pdf copies of books from your home.
 Advantages : - 
